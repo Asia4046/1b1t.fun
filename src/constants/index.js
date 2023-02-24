@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Ranks",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Discord",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Developer Form",
   },
 ];
 
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Players Online",
+    value: "0/100",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Unique Playes Ever Joined",
+    value: "68",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Server Status",
+    value: "Online",
   },
 ];
 
