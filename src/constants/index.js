@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Clans",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "You can create or join a clan so it makes playing on the server more fun",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Secure Payment",
     content:
       "We take proactive steps make sure your information and transactions are secure.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Contact Us",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "You Are Free to send us a mail or DM us in discord for any queries",
   },
 ];
 

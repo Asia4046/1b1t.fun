@@ -23,7 +23,8 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
-import onebonet from "./1b1t.png"
+import onebonet from "./1b1t.png";
+import onebonethd from "./1b1thd.png";
 
 export {
   airbnb,
@@ -52,4 +53,5 @@ export {
   people02,
   people03,
   onebonet,
+  onebonethd,
 };

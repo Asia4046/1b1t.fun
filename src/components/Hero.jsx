@@ -1,5 +1,5 @@
 import styles from "../style";
-import { discount, robot } from "../assets";
+import { discount } from "../assets";
 import GetStarted from "./GetStarted";
 import { useState } from "react";
 
@@ -23,9 +23,6 @@ const Hero = () => {
             Welcome <br className="sm:block hidden" />{" "}
             <span className="text-gradient"> to 1b1t</span>{" "}
           </h1>
-          <div className="ss:flex hidden md:mr-4 mr-0">
-            <GetStarted />
-          </div>
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
@@ -33,13 +30,13 @@ const Hero = () => {
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5 text-teal-50`}>
           1b1t brings the Anarchy experience of 2b2t and has custom
-          biomes so u will never get bored!.Also the server will be 
+          biomes so u will never get bored!Also the server will be 
           always at the latest version of Minecraft.
         </p>
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
+       
 
         {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
