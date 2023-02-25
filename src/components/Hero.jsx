@@ -1,5 +1,5 @@
 import styles from "../style";
-import { discount } from "../assets";
+import { discount, onebonethd } from "../assets";
 import GetStarted from "./GetStarted";
 import { useState } from "react";
 
@@ -36,8 +36,9 @@ const Hero = () => {
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-       
-
+      
+      <img src={onebonethd} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
+    
         {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
         <div className="absolute z-[1] w-[80%] h-[80%] rounded-full white__gradient bottom-40" />
