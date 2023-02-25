@@ -33,6 +33,8 @@ const Footer = () => (
     <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">
       <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white">
         Copyright Ⓒ 2023 1b1t Team. All Rights Reserved.
+        <p className="text-red-500">Warning! Website Still On Dev and Changes are not Permanent(this message will be removed after final commit)</p>
+        <p className="text-green-500">Website by kazuto124 and masuwuked</p>
       </p>
 
       <div className="flex flex-row md:mt-0 mt-6">
