@@ -86,3 +86,26 @@ export const socials = [
     url: '/facebook.svg',
   },
 ];
+
+export const rankWorlds = [
+  {
+    id: 'world-1',
+    imgUrl: '/end1.png',
+    title: 'Cadet [LvL-1]',
+  },
+  {
+    id: 'world-2',
+    imgUrl: '/nether1.png',
+    title: 'Veterans [LvL-2]',
+  },
+  {
+    id: 'world-3',
+    imgUrl: '/mesa_valley.png',
+    title: 'Commander [LvL-3]',
+  },
+  {
+    id: 'world-4',
+    imgUrl: '/great_mountains.png',
+    title: 'Founders [LvL-4] (unobtainale)',
+  },
+];

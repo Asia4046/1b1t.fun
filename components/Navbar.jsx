@@ -24,10 +24,12 @@ const Navbar = () => (
       <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
         1b1t
       </h2>
+      <h2 className='font-bold text-[24px] leading-[30.24px] text-white'><a href="/ranks">Ranks</a></h2>
+      <h2 className='font-bold text-[24px] leading-[30.24px] text-white'><a href="/ranks">Credits</a></h2>
       <img
         src="/menu.svg"
         alt="menu"
-        className="w-[24px] h-[24px] object-contain"
+        className="w-[23px] h-[24px] object-contain"
       />
     </div>
   </motion.nav>
