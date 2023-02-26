@@ -1,28 +1,28 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/end1.png',
+    title: 'The Custom End',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/nether1.png',
+    title: 'The Custom Nether',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: '/mesa_valley.png',
+    title: 'The Mesa Valley',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    imgUrl: '/great_mountains.png',
+    title: 'The Great Mountains',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    imgUrl: '/dark_valley.png',
+    title: 'The Dark Valley',
   },
 ];
 
