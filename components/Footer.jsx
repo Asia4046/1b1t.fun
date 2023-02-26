@@ -26,7 +26,7 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-            <a href="#">Join 1b1t Discord</a>
+            <a href="https://discord.gg/4dJ8dqmeCx">Join 1b1t Discord</a>
           </span>
         </button>
       </div>
