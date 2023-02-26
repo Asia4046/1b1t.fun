@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  '100 Player Slots',
+  'Latest Version Of Minecraft',
+  'Upgraded hardware for smooth gameplay without lag',
 ];
 
 export const newFeatures = [
@@ -37,13 +37,13 @@ export const newFeatures = [
     imgUrl: '/vrpano.svg',
     title: 'A new world',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'we have the latest update with new world for you to try',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Upgraded Hardware',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'In the latest update, We have Upgraded our Hardware So You Dont Experience Lag',
   },
 ];
 
