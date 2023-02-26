@@ -25,12 +25,6 @@ const About = () => (
         <span className="font-extrabold text-white">1b1t</span> is a the new
         anarchy environment which has custom biomes and the latest version of 
         minecraft.We have a powerfull hardware so you would enjoy a smooth gameplay{' '}
-        <span className="font-extrabold text-white">
-          We allow 
-        </span>{' '}
-        {' '}
-        <span className="font-extrabold text-white">Hacks</span> and we dont have any rules
-        so you can do anything you want in the server{' '}
         <span className="font-extrabold text-white">explore</span> more
         about 1b1t by scrolling down
       </motion.p>
